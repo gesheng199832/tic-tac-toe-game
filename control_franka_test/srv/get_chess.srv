@@ -1,0 +1,3 @@
+int64 which_chess
+---
+float64[3] chess_location

@@ -1,0 +1,13 @@
+int64 call
+---
+float64[3] pt0
+float64[3] pt1
+float64[3] pt2
+float64[3] pt3
+float64[3] pt4
+float64[3] pt5
+float64[3] pt6
+float64[3] pt7
+float64[3] pt8
+float64[3] chess_location
+int64[9] boardcase
