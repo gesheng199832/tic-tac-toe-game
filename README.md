@@ -61,4 +61,3 @@ game start
 ```sh
 $ python main.py
 ```
-[baidu](https://www.baidu.com)
