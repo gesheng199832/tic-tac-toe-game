@@ -2,7 +2,7 @@
 The project is illustrated with Franka panda and realsense 400 series. Table and walls added in the urdf to avoid collision for motion planning.
 
 # Project Setup
-Make sure you've installed [ROS kinetic] (http://wiki.ros.org/kinetic/Installation/Ubuntu) and [catkin_tools] (https://catkin-tools.readthedocs.io/en/latest/installing.html).
+Make sure you've installed [ROS kinetic](http://wiki.ros.org/kinetic/Installation/Ubuntu) and [catkin_tools](https://catkin-tools.readthedocs.io/en/latest/installing.html).
 
 Please go to the each package under this repository for detailed explanations and installation guidance. Please install the [Realsense SDK](https://realsense.intel.com/sdk-2/#install) before you run the following steps.
 
