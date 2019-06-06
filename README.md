@@ -17,7 +17,7 @@ $ catkin build
 Now that you have a workspace, clone or download this repo into the src directory of your workspace:
 ```sh
 $ cd ~/catkin_ws/src
-$ git clone https://github.com/gesheng199832/BionicDL-CobotLearning-Project3.git
+$ git clone https://github.com/gesheng199832/tic-tac-toe-game.git
 ```
 
 Now install missing dependencies using rosdep install:
@@ -41,7 +41,7 @@ $ source ~/catkin_ws/devel/setup.bash
 
 ```sh
 $ roslaunch control_franak_test auto_calibration
-$ cd ~/catkin_ws/src/BionicDL-CobotLearning-Project3/control_franka_test/calibration
+$ cd ~/catkin_ws/src/tic-tac-toe-game/control_franka_test/calibration
 $ python auto_calibration.py
 ```
 copy the hand eye calibration matrix from terminal to main.py after auto calibration done
@@ -54,11 +54,11 @@ $ roslaunch control_franka_test test
 ```
 then run the computer vision server
 ```sh
-% cd ~/catkin_ws/src/BionicDL-CobotLearning-Project3/control_franka_test/scripts
+% cd ~/catkin_ws/src/tic-tac-toe-game/control_franka_test/scripts
 % python case_detecter_server_yzy.py
 ```
 game start 
 ```sh
 $ python main.py
 ```
-
+[baidu](https://www.baidu.com)
