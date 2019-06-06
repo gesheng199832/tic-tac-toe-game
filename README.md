@@ -1,7 +1,7 @@
 # tic-tac-toe-game
 The project is illustrated with Franka panda and realsense 400 series. Table and walls added in the urdf to avoid collision for motion planning.
 
-![Image](https://github.com/gesheng199832/tic-tac-toe-game/blob/master/image/I4XKC%7DE2UP(%256KVDFAXSU%40P.png)
+![Image](./image/I4XKC%7DE2UP(%256KVDFAXSU%40P.png)
 
 # Project Setup
 Make sure you've installed [ROS kinetic](http://wiki.ros.org/kinetic/Installation/Ubuntu) and [catkin_tools](https://catkin-tools.readthedocs.io/en/latest/installing.html).
